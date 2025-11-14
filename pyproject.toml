@@ -25,9 +25,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/anastasiiabakhtina98-ops/project-fantastic5"
-Repository = "https://github.com/anastasiiabakhtina98-ops/project-fantastic5.git"
-Issues = "https://github.com/anastasiiabakhtina98-ops/project-fantastic5/issues"
+Homepage = "https://github.com/anastasiiabakhtina98-ops/project-avasa"
+Repository = "https://github.com/anastasiiabakhtina98-ops/project-avasa.git"
+Issues = "https://github.com/anastasiiabakhtina98-ops/project-avasa/issues"
 
 [project.scripts]
 bot-assistant = "src.main:main"
